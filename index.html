@@ -38,10 +38,17 @@
 <pre><code>let count = 0;
 while (count < 5) {
     console.log("Count is: " + count);
-    count++; // Increment count to avoid an infinite loop
+    count = count + 1; // Increment count to avoid an infinite loop through variable reassignment
 }</code></pre>
 
-
+<h2>The ++ (plus-plus) operator</h2>
+<p>Incrementing a variable up by 1 is such a common occurrence in computer programming (<em>think C++</em>) that there is a special operator to do just that:</p>
+<pre><code>let count = 0;
+while (count < 5) {
+    console.log("Count is: " + count);
+    count++; // this is the same as count = count + 1.
+}</code></pre>
+<p>In other words, the ++ takes a variable, adds 1 to it, and then reassigns that new value to the original vairiable</p>
 
 <h2>Iterating with a While Loop</h2>
 <p>We can use a while loop to iterate through an array:</p>
