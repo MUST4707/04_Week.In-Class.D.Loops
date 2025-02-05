@@ -32,7 +32,7 @@ console.log("Count is: " + count);
 count++; // this is the same as count = count + 1.
 }
 ```
-In other words, the ++ takes a variable, adds 1 to it, and then reassigns that new value to the original vairiable
+In other words, the ++ takes a variable, adds 1 to it, and then reassigns that new value to the original variable
 
 Iterating with a While Loop
 ---------------------------
