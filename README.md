@@ -1,5 +1,3 @@
-Introduction to While Loops body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; padding: 20px; line-height: 1.6; } code { background: #f4f4f4; padding: 3px 6px; border-radius: 4px; } pre { background: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
-
 Introduction to While Loops
 ===========================
 
